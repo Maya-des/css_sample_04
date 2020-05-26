@@ -1,0 +1,35 @@
+body {
+    background-image: url("images/bg_image_01.jpg");
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: ghostwhite;
+    color: midnightblue;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    font-size: 45px;
+    color: midnightblue;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: thistle;
+    color: midnightblue;
+}
+
+#contents{
+    padding: 40px;
+    height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : thistle;
+    color: midnightblue;
+}
